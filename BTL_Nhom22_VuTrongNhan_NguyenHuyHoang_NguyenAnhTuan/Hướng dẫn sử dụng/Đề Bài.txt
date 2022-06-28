@@ -1,0 +1,13 @@
+ĐỀ BÀI:
+Xây dựng chương trình quản lý kho cửa hàng thực phẩm và quản lý nhân viên của cửa hàng.
+
+Xây dựng hệ thống quản lý cửa hàng với các chức năng sau:
+	- Thêm, bớt, sửa và xóa một sản phẩm trong cửa hàng và dữ liệu được lưu trữ trên database
+	- Thêm , bớt , sửa và xóa nhân viên của cửa hàng và dữ liệu được lưu trữ trên database
+	
+	- Tìm kiếm sản phẩm dựa vào id của sản phẩm và hiển thị thông tin trên bảng dữ liệu
+	- Tìm kiếm nhân viên của cửa hàng dựa vào tên nhân viên và hiển thị thông tin trên bảng dữ liệu
+	
+     - Chức năng rà soát sản phẩm có tồn tại trong kho hàng không để lặp tên sản phẩm và id sản phẩm
+     - Chức năng rà soát tên nhân viên không để lặp tên và id của nhân viên
+     

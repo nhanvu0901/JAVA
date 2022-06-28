@@ -1,0 +1,21 @@
+Cần hai hoạt động để có thể upda
+ public Employee(int employee_id, String employee_name, String employee_gender, String employee_gmail, String employee_password, String employee_job, String employee_shift) {
+        super(employee_name, employee_gender, employee_gmail);
+        this.employee_id = employee_id;
+        this.employee_password = employee_password;
+        this.employee_job = employee_job;
+        this.employee_shift = employee_shift;
+    }
+    SELECT TOP (5) * FROM My_Table_Name WHERE id=WhateverValueINeed ORDER BY DateTimeColumnName DESC
+
+create table store (
+	food_id int(11) ,
+	food_name varchar(50) not null,
+	food_kind varchar(15),
+	food_number int(11),
+	food_price double,
+	food_dateInput date not null,
+	food_dayMade varchar(50) not null,
+	food_expired varchar(50) not null,
+	food_origin varchar(50) not null
+	)
